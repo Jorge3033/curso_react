@@ -1,0 +1,14 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Jabon"
+    }
+  ],
+  "Client": [
+    {
+      "id": 1,
+      "body": "Jorge"
+    }
+  ]
+}
